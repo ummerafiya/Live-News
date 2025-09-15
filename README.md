@@ -33,21 +33,21 @@ live-news-app/
 git clone https://github.com/ummerafiya/Live-News.git
 cd live-news-app
 
-2. Create a virtual environment
+### 2. Create a virtual environment
 
  python3 -m venv venv
 source venv/bin/activate          #macOS/Linux
 venv\Scripts\activate             # On Windows
 
-3.Install Dependencies
+### 3.Install Dependencies
 
 pip install flask
 
-4.Run the application
+### 4.Run the application
 
 python app.py
 
-5.Open in browser
+### 5.Open in browser
 
 Go to 👉 http://127.0.0.1:5000/
 
