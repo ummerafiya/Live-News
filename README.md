@@ -96,3 +96,8 @@ Output
 📄 License
 
 This project is licensed under the MIT License.
+
+out[ut of the Program:
+
+<img width="1817" height="887" alt="image" src="https://github.com/user-attachments/assets/91918f8d-9537-48c5-a147-fbd1c1db9219" />
+
